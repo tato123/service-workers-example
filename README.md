@@ -20,7 +20,11 @@ for example, to run example1
 
 # Example 1
 
-Demonstrates a GET fetch request to the resource `/hello`
+Demonstrates a JSON response for a GET fetch request to the resource `/hello`
+
+# Example 1
+
+Demonstrates a `streaming` repsonse for a GET fetch request to the resource `/hello`
 
 # Bugs
 
