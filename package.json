@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "example1" : "lite-server -c example1-config.json"
+    "example1": "serve example-1 -p 8000",
+    "example2": "serve example-2 -p 8000"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,6 @@
   },
   "homepage": "https://github.com/tato123/service-workers-example#readme",
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "serve": "^1.4.0"
   }
 }
