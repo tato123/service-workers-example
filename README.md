@@ -22,7 +22,7 @@ for example, to run example1
 
 Demonstrates a JSON response for a GET fetch request to the resource `/hello`
 
-# Example 1
+# Example 2
 
 Demonstrates a `streaming` repsonse for a GET fetch request to the resource `/hello`
 
